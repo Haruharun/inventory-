@@ -1,5 +1,5 @@
 # Inventory Dashboard 
-### Dashboard link : https://app.powerbi.com/groups/me/reports/8b4662b7-6d55-41d1-8445-b13c9b296a5f/5873fe3452f00f586829?bookmarkGuid=bcf13888-484c-4974-8c7b-14b85b7bb462&bookmarkUsage=1&ctid=f36f7acf-1778-4d3c-a997-d110f0c48dbf&portalSessionId=abd03f3d-93b9-46a0-9f91-7c24e19817c2&fromEntryPoint=export
+### https://app.powerbi.com/reportEmbed?reportId=5aa07aa6-f6d3-4993-9d38-26c21905fc84&autoAuth=true&ctid=f36f7acf-1778-4d3c-a997-d110f0c48dbf
 
 ## Project Overview
 

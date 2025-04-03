@@ -6,7 +6,7 @@
 This project involves creating interactive dashboard  using SQL and power BI , focusing on inventory management analysis. It delivers actionable insights to improve stock efficiency, supplier performance, and overall operational effectiveness
 
 ## mysql query
-![mysql](https://github.com/Haruharun/sales_Report/blob/67d065fcd3c3836dc5f1f207f407338cc18dcd46/MY%20SQL%20Queries.docx)
+![mysql]()
 
 ## Tasks Performed
 
@@ -22,41 +22,25 @@ This project involves creating interactive dashboard  using SQL and power BI , f
 
 ## Key Features
 
+🔺Turnover Analysis: A clear breakdown of stock turnover rates to optimize inventory levels.
 
- 🔺Total Sales: Displays the total sales amount with a comparison to the previous month.
+🔺Supplier Performance: Insights into supplier efficiency and lead times, supporting data-driven supplier management.
 
- 🔺Total Orders: Shows the total number of orders and their comparison to the previous month.
+🔺Restocking Trends: Identification of restocking patterns to minimize stockouts and overstocking.
 
- 🔺Total Quantity: Indicates the total quantity sold with a comparison to the previous month.
-
- 🔺Sales Trends: A bar chart representing sales trends over the period with average sales marked.
-
- 🔺Sales by Weekday/Weekend: A calendar view highlighting sales distribution across weekdays and weekends.
-
- 🔺Sales by Store Location: Breakdown of sales by different store locations.
-
- 🔺Sales by Product Category: Sales distribution across various product categories.
-
- 🔺Top 10 Products: List of the top 10 products by sales amount.
-
- 🔺Sales by Days/Hours: Heatmap showing sales distribution by days of the week and hours of the day.
+🔺Custom Design: Professionally refined color themes, layouts, and interactive elements to ensure clarity and usability.
+ 
 
 ## Key Insights
+🔺High Turnover Rates: Certain stock categories move quickly, indicating strong customer demand.
 
+🔺Supplier Trends: Variations in lead times highlight the need for closer supplier collaboration
 
- 🔺Total Sales Performance: Total sales amount with a comparison to the previous month, highlighting any significant changes.
+🔺Optimization Opportunities: Categories with low turnover rates indicate potential for inventory optimization.
 
- 🔺 Order and Quantity Trends: Trends in the total number of orders and quantities sold, providing insights into customer buying behavior.
+🔺Cost Efficiency: Analysis reveals opportunities for cost reduction through better stock manageme
 
- 🔺Sales Trends: Daily sales trends with average sales figures, identifying peak sales periods.
+.
 
- 🔺Store Location Performance: Sales performance across different store locations, highlighting the best-performing stores.
-
- 🔺Product Category Performance: Sales distribution by product category, identifying the most and least popular categories.
-
- 🔺Top Products: Insights into the top-selling products, helping to identify key drivers of revenue.
-
- 🔺Sales by Time: Analysis of sales by days of the week and hours of the day, identifying peak sales times.
-
-![sales Dashboard](https://github.com/Haruharun/sales_Report/blob/d6fec5868d714301fed05a577d9a18a3eadaf5bd/Screenshot%202025-03-08%20133125.png)
+![sales Dashboard](https://github.com/Haruharun/inventory-/blob/faa29dd842fe87c92d2d45384ebc23292fd40f88/Screenshot%202025-04-03%20153948.png)
 

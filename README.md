@@ -6,7 +6,7 @@
 This project involves creating interactive dashboard  using SQL and power BI , focusing on inventory management analysis. It delivers actionable insights to improve stock efficiency, supplier performance, and overall operational effectiveness
 
 ## mysql query
-![mysql]()
+![mysql](https://github.com/Haruharun/inventory-/blob/3ab66fd9234769c68856b4d82d99fe39082dc18c/Inventory%20Management%20Queries.docx)
 
 ## Tasks Performed
 
